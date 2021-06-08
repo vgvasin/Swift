@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  VK-GeekBrains
+//  VK-Geekbrains
 //
-//  Created by Владимир Васин on 30.05.2021.
+//  Created by Владимир Васин on 08.06.2021.
 //
 
 import UIKit
